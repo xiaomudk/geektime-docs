@@ -2,7 +2,7 @@
   "name": "geektime-docs",
   "version": "1.0.0",
   "scripts": {
-    "dev": "python -m mkdocs serve",
-    "build": "python -m mkdocs build -d public"
+    "dev": "mkdocs serve",
+    "build": "mkdocs build -d public"
   }
 }
